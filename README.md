@@ -1,5 +1,4 @@
 # VigenereSolver
-==============
 
 A Vigenere Cipher Solver written in .NET
 
